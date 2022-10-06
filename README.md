@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zin Myo Maung.
-- 👀 I’m interested in learning new technologies.
+- 👀 I’m currently learning @reactjs, @nextjs, @nodejs and AWS cloud services.
 - 🌱 I’m currently working with @php @laravel and @reactjs.
 - 📫 How to reach me ... zinmyomaung17@gmail.com
 
