@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Zin Myo Maung, a web application developer.
+- 👋 Hello, I’m Zin Myo Maung, a burmese web developer.
 - 👀 I’m currently learning @reactjs, @nextjs, @nodejs and AWS cloud services.
 - 🌱 I’m currently working with @php @mysql @laravel and @reactjs.
 - 📫 How to reach me ... zinmyomaung17@gmail.com
