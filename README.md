@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Zin Myo Maung, a full-stack web developer.
 - 👀 I’m currently learning @reactjs, @nextjs, @nodejs and @AWS.
-- 🌱 I’m currently working with @PHP @Laravel @React.js, @Next.js, @MySQL, @PostGreSQL @AWS and @CI/CD.
+- 🌱 I’m currently working with @PHP @Laravel @React.js, @Next.js, @MySQL, @PostgreSQL @AWS and @CI/CD.
 - 📫 How to reach me ... zinmyomaung17@gmail.com
 
 
