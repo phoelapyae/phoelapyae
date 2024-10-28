@@ -7,7 +7,7 @@
 
 ## Programming Languages & Tools
 
-[![squatto's Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,tailwind,alpinejs,react,aws,nginx,git,github,linux,bash,wordpress,idea,md,raspberrypi,stackoverflow)](https://skillicons.dev)
+[![squatto's Skills](https://skillicons.dev/icons?i=php,laravel,js,mysql,postgresql,html,css,tailwind,react,aws,nginx,git,github,linux,bash)](https://skillicons.dev)
 
 
 ## Github Profile
