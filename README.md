@@ -11,6 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoelapyae&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
+## Languages & Tools
+[![squatto's Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,tailwind,alpinejs,react,aws,nginx,git,github,linux,bash,wordpress,idea,md,raspberrypi,stackoverflow)](https://skillicons.dev)
+
 
 <!---
 phoelapyae/phoelapyae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
