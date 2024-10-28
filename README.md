@@ -7,7 +7,7 @@
 
 ## Programming Languages & Tools
 
-[![squatto's Skills](https://skillicons.dev/icons?i=php,laravel,js,mysql,postgresql,html,css,tailwind,react,nextjs,npm,postman,aws,nginx,apache2,git,github,ubuntu,linux,bash,bitbucket,bootstrap,cloudflare,docker,firebase,gitlab,graphql,jenkins,jquery)](https://skillicons.dev)
+[![squatto's Skills](https://skillicons.dev/icons?i=php,laravel,js,mysql,postgresql,html,css,tailwind,react,nextjs,npm,postman,aws,nginx,apache2,git,github,ubuntu,linux,bash,ansible,bitbucket,bootstrap,cloudflare,docker,firebase,gitlab,graphql,jenkins,jquery)](https://skillicons.dev)
 
 
 ## Github Profile
