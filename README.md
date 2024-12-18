@@ -1,7 +1,7 @@
 ## About Me
 
 - 👋 Hello, I’m Zin Myo Maung, a full-stack web developer.
-- 👀 I’m currently learning @reactjs, @nextjs, @nodejs, @AWS, Software Design & Architectures such as Domain Driven Design, Event Sourcing and Microservices.
+- 👀 I’m currently learning @reactjs, @nextjs, @nodejs, @AWS, and Software Design & Architectures such as Domain Driven Design, Event Sourcing and Microservices.
 - 🌱 I’m currently working with @PHP @Laravel @JavaScript @React.js, @Next.js, @MySQL, @PostgreSQL @AWS and @CI/CD.
 - 📫 How to reach me ... zinmyomaung17@gmail.com
 
