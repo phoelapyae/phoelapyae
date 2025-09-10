@@ -3,7 +3,7 @@
 - 👋 Hello, I’m Zin Myo Maung, a full-stack developer.
 - 👀 I’m currently learning about TypeScript, AWS, Cloud Computing, DevOps, Infrastructure, Microfrontend, Software Design, and Architectures.
 - 🌱 I’m currently working with @JavaScript @TypeScript @React.js @Next.js @Nest.js @Express.js @TailwindCSS @PHP @Laravel @MySQL @PostgreSQL @AWS and @CI/CD.
-- 📫 How to reach me ... zinmyomaung17@gmail.com
+- 📫 How to reach me ... zinmyomaung2022@gmail.com
 
 ## Github Profile
 
